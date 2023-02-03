@@ -1,3 +1,9 @@
+### `Links Repo`
+
+Frontend: [https://github.com/archieneca/zli_m294_react]
+Backend: [https://github.com/archieneca/zli_m294_backend]
+
+
 # Modul 294 LB B Backend
 ## Version: 2.2.0
 
